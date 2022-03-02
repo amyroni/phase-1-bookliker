@@ -15,6 +15,10 @@
         {
           "id": 8,
           "username": "maverick"
+        },
+        {
+          "id": 11,
+          "username": "Amy"
         }
       ]
     },
@@ -258,6 +262,10 @@
     {
       "id": 10,
       "username": "macejkovic"
+    },
+    {
+      "username": "Amy",
+      "id": 11
     }
   ]
 }
